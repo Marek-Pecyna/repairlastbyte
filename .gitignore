@@ -1,0 +1,9 @@
+# File and directories to be ignored by git
+__pycache__
+.idea
+onefile-build
+dist
+build
+*.pyo
+*.exe
+*.zip
